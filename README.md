@@ -1,9 +1,9 @@
-# AWS-Cloud
-AWS Cloud Resume Challenge
+# AWS Cloud Resume Challenge
+
 
 ------------------
 
-Adapted from the Cloud Resume Challenge by (link)[https://cloudresumechallenge.dev/docs/the-challenge/aws/]
+Adapted from the Cloud Resume Challenge by [https://cloudresumechallenge.dev/docs/the-challenge/aws/](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
 
 ----------------------
 
